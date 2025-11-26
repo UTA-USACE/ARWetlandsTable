@@ -1,5 +1,5 @@
 **Welcome to the AR Wetlands GitHub repository!**
-
+This project is in Partnership with the University of Texas at Arligton (UTA) and the U.S. Army Corps of Engineers (USACE).
 
 Here you can find the app apk to download on your android device to get started! As well as related documentation for the app.
 
@@ -31,3 +31,18 @@ If prompted, allow your device to install apps from unknown sources.
 2. Tap Begin Experience on the welcome screen.
 
 3. Point your device at the designated AR marker on the table to start the simulation.
+
+
+
+Team Contributions to project:
+1. Adrian Macias - Developed App screens and functionality, 
+Construction site scene, on-scene narration.
+2. Nooraldeen Alsmady - Designed and animated the factory 
+scene; enhanced visuals and overall AR experience.
+3. Yahia Khaled Elsaad - Designed neighborhood scene and 
+assisted with animations.
+4. Mohamad Nabih Alkhateeb - Partnered on neighborhood 
+scene and animation features.
+5. Mauricio Mendoza-Silos - Built project structure, tabletop 
+terrain design and implementation, water animations; 
+handled communication.
