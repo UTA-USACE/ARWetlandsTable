@@ -1,4 +1,5 @@
 **Welcome to the AR Wetlands GitHub repository!**
+
 This project is in Partnership with the University of Texas at Arligton (UTA) and the U.S. Army Corps of Engineers (USACE).
 
 Here you can find the app apk to download on your android device to get started! As well as related documentation for the app.
