@@ -13,14 +13,14 @@ Downloading the App:
 
 3. Select Download.
 
-_If your device displays a security prompt, choose Accept or Download anyway to proceed.
-_
+If your device displays a security prompt, choose Accept or Download anyway to proceed.
+
 
 Installing the App:
 
 1. Once the APK has downloaded, open it from your device’s notification bar or file manager.
 
-_If prompted, allow your device to install apps from unknown sources._
+If prompted, allow your device to install apps from unknown sources.
 
 2. Tap Install and wait for the installation to complete.
 
