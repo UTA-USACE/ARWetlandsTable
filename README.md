@@ -1,31 +1,31 @@
-**Welcome to the AR Wetlands GitHub repository!**
+# Welcome to the AR Wetlands GitHub repository!
 
 This project is in Partnership with the University of Texas at Arligton (UTA) and the U.S. Army Corps of Engineers (USACE).
 
 Here you can find the app apk to download on your android device to get started! As well as related documentation for the app.
 
-**AR Wetlands – App Installation Guide**
+## AR Wetlands – App Installation Guide ##
 
-Downloading the App:
+ ### Downloading the App: ###
 
 1. Navigate to the file AR_Wetlands_.apk in this repository.
 
-2. Once in, click the three dots (...) in the top-right corner.
+2. Once in, click the three dots (...) in the top-right corner of the file preview.
 
 3. Select Download.
 
-If your device displays a security prompt, choose Accept or Download anyway to proceed.
+_If your device displays a security prompt, choose Accept or Download anyway to proceed._
 
 
-Installing the App:
+### Installing the App: ###
 
 1. Once the APK has downloaded, open it from your device’s notification bar or file manager.
 
-If prompted, allow your device to install apps from unknown sources.
+_If prompted, allow your device to install apps from unknown sources in settings._
 
 2. Tap Install and wait for the installation to complete.
 
-**Launching the Experience**
+### Launching the Experience ###
 
 1. Open the AR Wetlands app on your Android device.
 
