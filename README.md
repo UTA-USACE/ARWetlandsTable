@@ -33,7 +33,13 @@ _If prompted, allow your device to install apps from unknown sources in settings
 
 3. Point your device at the designated AR marker on the table to start the simulation.
 
+Source File Setup Instructions:
+1. Unzip the project folder.
+2. Open Unity Hub and click "Add Project from Disk."
+3. Select the folder.
+4. Open the scene.
 
+Note on Assets: This project contains paid assets. These are for educational/project use only and should not be redistributed publicly.
 
 Team Contributions to project:
 1. Adrian Macias - Developed App screens and functionality, 
